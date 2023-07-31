@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tomas Sadone</h1>
 <h3 align="center">A guy who has found it's passion in software development</h3>
 
-- 🌱 I’m currently learning **Next.js**
-
 - 👨‍💻 My best projects are available at [https://tomassadone.github.io/myPortfolio/](https://tomassadone.github.io/myPortfolio/)
 
 - 📫 How to reach me **tomassadonedev@gmail.com**
