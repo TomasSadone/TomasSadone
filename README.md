@@ -7,8 +7,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1CV4FGHaMSA7WGRpjbcmCtuAlwFzwbbBy/view](https://drive.google.com/file/d/1CV4FGHaMSA7WGRpjbcmCtuAlwFzwbbBy/view)
 
-- ⚡ Fun fact **I've practiced every sport known to man**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tomas sadone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tomas sadone" height="30" width="40" /></a>
